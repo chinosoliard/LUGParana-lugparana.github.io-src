@@ -1,0 +1,56 @@
+<section id="header" class="full-screen"><!-- full-screen or half-screen (550px height) -->
+	<div id="slider">
+		<ul class="slides-container">
+			<!-- SLIDE 1 -->
+			{% if SLIDE1 %}
+			<li>
+				<span class="overlay"></span>
+				<div style="background-image: url('{{ SLIDE1 }}');" class="fullscreen-img"></div>
+			</li>
+			{% endif %}
+
+			<!-- SLIDE 2 -->
+                        {% if SLIDE2 %}
+                        <li>
+                                <span class="overlay"></span>
+                                <div style="background-image: url('{{ SLIDE2 }}');" class="fullscreen-img"></div>
+                        </li>
+                        {% endif %}
+
+			<!-- SLIDE 3 -->
+                        {% if SLIDE3 %}
+                        <li>
+                                <span class="overlay"></span>
+                                <div style="background-image: url('{{ SLIDE3 }}');" class="fullscreen-img"></div>
+                        </li>
+                        {% endif %}
+
+			{% if SLIDE4 %}
+                        <li>
+                                <span class="overlay"></span>
+                                <div style="background-image: url('{{ SLIDE4 }}');" class="fullscreen-img"></div>
+                        </li>
+                        {% endif %}
+
+			{% if SLIDE5 %}
+                        <li>
+                                <span class="overlay"></span>
+                                <div style="background-image: url('{{ SLIDE5 }}');" class="fullscreen-img"></div>
+                        </li>
+                        {% endif %}
+
+		</ul>
+		{% if LOGO %}
+		<div class="image-caption">
+			<img class="img-responsive" src="{{LOGO}}" />
+		</div>
+		{% else %}
+		<hr /><hr />
+		<div class="inner">
+			<h2 class="bigtext strtoupper nomargin">{{ SITENAME|e }}</h2>
+		</div>
+		<hr /><hr />
+		{% endif %}
+	</div>
+</section>
+
