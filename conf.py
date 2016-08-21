@@ -21,10 +21,10 @@ BLOG_AUTHOR = "LUG Paraná"  # (translatable)
 BLOG_TITLE = "LUG Paraná"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://lugparana.org/"
+SITE_URL = "http://lugparana.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-BASE_URL = "http://lugparana.github.io"
+# BASE_URL = "http://lugparana.org"
 BLOG_EMAIL = "lugparana@listas.usla.org.ar"
 BLOG_DESCRIPTION = "Linux User Group Paraná (AR)"  # (translatable)
 
