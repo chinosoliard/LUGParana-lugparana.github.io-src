@@ -1,3 +1,6 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:lugparana/lugparana.github.io.git
+[submodule "theme"]
+	path = theme
+	url = git@github.com:alexandrevicenzi/Flex

@@ -11,6 +11,9 @@ TIMEZONE = 'America/Argentina/Buenos_Aires'
 
 DEFAULT_LANG = u'es'
 
+
+THEME="theme"
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
