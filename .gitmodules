@@ -4,3 +4,6 @@
 [submodule "theme"]
 	path = theme
 	url = git@github.com:alexandrevicenzi/Flex
+[submodule "lugparana-pelican-theme"]
+	path = lugparana-pelican-theme
+	url = git@github.com:chinosoliard/lugparana-pelican-theme

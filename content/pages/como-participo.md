@@ -1,13 +1,5 @@
-<!-- 
-.. title: ¿Cómo participo?
-.. slug: como-participo
-.. date: 2016-08-15 22:29:19 UTC-03:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
-.. type: text
--->
+Title: ¿Cómo participo?
+Slug: como-participo
 
 No es necesario ser informático especializado, la idea del grupo es difundir el uso del software libre y compartir experiencias.
 
