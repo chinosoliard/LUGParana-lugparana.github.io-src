@@ -5,7 +5,7 @@ AUTHOR = u'LUG Paran\xe1'
 SITENAME = u'LUG Paran\xe1'
 SITETITLE = u'LUG Paran\xe1'
 SITEDESCRIPTION = 'Grupo de Usuarios de </br>Software Libre </br>de Paraná, Argentina'
-SITELOGO = '/images/logo.png'
+SITELOGO = '/images/static/logo.png'
 #FAVICON = SITEURL + '/images/favicon.ico'
 
 
@@ -13,8 +13,11 @@ SITELOGO = '/images/logo.png'
 PATH = 'content'            # General content path
 PAGE_PATHS = ['pages']      # Pages path (Relative to PATH)
 ARTICLE_PATHS = ['blog']    # Articles path (Relative to PATH)
-STATIC_PATHS = ['images']   # Static path (Relatives to PATH) for static files
+STATIC_PATHS = ['images/article','images/galleries','images/static','files'] # Static path (Relatives to PATH) for static files
 ARTICLE_URL = 'blog/{date:%Y}/'
+ARTICLE_SAVE_AS = 'blog/{date:%Y}/{slug}.html'
+ARTICLE_EXCLUDES = ['images/galleries'] 
+PAGE_EXCLUDES = ['images/galleries']
 
 
 SITEURL = '' 
