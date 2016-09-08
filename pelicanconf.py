@@ -46,5 +46,9 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = (('facebook', 'https://www.facebook.com/groups/lugparana/'),
           ('linkedin', 'https://www.linkedin.com/groups/8195477'),
-          ('google','https://plus.google.com/communities/102117268282574409059'),
-          ('twitter','https://twitter.com/search?q=%23LugParana'),)
+          ('googleplus','https://plus.google.com/communities/102117268282574409059'),
+          ('telegram','https://telegram.me/LUGParana'),
+          ('twitter','https://twitter.com/lugparana'),
+          ('youtube','http://www.youtube.com/channel/UCtzu8DvzTCHlEHse32Pl9hQ'),
+          ('github','http://www.github.com/LugParana'),
+          ('mail','mailto:lugparana@listas.usla.org.ar'),)
