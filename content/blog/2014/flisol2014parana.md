@@ -4,9 +4,9 @@ Category: Eventos
 Tags: flisol
 Lang: es
 Slug: flisol-parana-2014
-Summary: El 26 de abril de 2014 se llevó a cabo el FLISoL 2014 Sede Paraná. FLISoL es el Festival Latinoamericano de Instalación de Software Libre, un evento que se realiza en forma simultanea en distintos puntos de América Latina.
+Summary: El 26 de abril de 2014 se llevó a cabo el FLISoL 2014 Sede Paraná. FLISoL es el Festival Latinoamericano de Instalación de Software Libre, un evento que se realiza en forma simultanea en distintos puntos de América Latina. ![flisol2014parana.jpg](/images/article/2014/flisol2014parana.jpg)
 
-El desarrollo del evento se pudo hacer gracias al apoyo de GUGLER, que consiguió la Escuela Normal Superior “José María Torres", ubicada en pleno centro de la localidad.  
+![flisol2014parana.jpg](/images/article/2014/flisol2014parana.jpg)El desarrollo del evento se pudo hacer gracias al apoyo de GUGLER, que consiguió la Escuela Normal Superior “José María Torres", ubicada en pleno centro de la localidad.  
 
 La organización estuvo muy bien, tuvimos 2 aulas a disposición, una para las instalaciones, y otra para las charlas. El nivel de asistencia fue mucho mejor que en la edición anterior, unos 70 asistentes aproximadamente.  
 

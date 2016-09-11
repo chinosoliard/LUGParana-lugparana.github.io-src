@@ -4,8 +4,9 @@ Category: Eventos
 Tags: flisol
 Lang: es
 Slug: flisol-parana-2013
-Summary: FLISoL (Festival Latinoamericano de Instalación de Software Libre) es un InstallFest que se realiza de simultaneamente en varios puntos de latinoamerica; Se realizó, en su 9ª edición, el 27 de abril.  
+Summary: FLISoL (Festival Latinoamericano de Instalación de Software Libre) es un InstallFest que se realiza de simultaneamente en varios puntos de latinoamerica; Se realizó, en su 9ª edición, el 27 de abril.  ![flisol2013parana.jpg](/images/article/2013/flisol2013parana.jpg)
 
+![flisol2013parana.jpg](/images/article/2013/flisol2013parana.jpg)
 La organización empezó tarde y, gracias a los chicos de Gugler pudimos conseguir el lugar para que el evento se lleve a cabo.  
 
 El festival tuvo lugar en la Escuela Normal Superior "José María Torres" (localmente conocida como "Escuela Normal"); Se ocuparon 2 aulas, una para las instalaciones, y otra para las charlas.  
