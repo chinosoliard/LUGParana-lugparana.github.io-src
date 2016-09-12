@@ -4,7 +4,7 @@ Category: Eventos
 Tags: flisol
 Lang: es
 Slug: flisol-parana-2015
-Summary: FLISoL 2015 se realizó el 25 de abril, éste año, en Paraná, lo hicimos en la UTN Facultad Regional Paraná. ![flisol2015parana.jpg](/images/article/2015/flisol2015parana.jpg) 
+Summary: FLISoL 2015 se realizó el 25 de abril, éste año, en Paraná, lo hicimos en la UTN Facultad Regional Paraná. ![flisol2015parana-slide.jpg](/images/article/2015/flisol2015parana-slide.jpg) 
 
 ![flisol2015parana.jpg](/images/article/2015/flisol2015parana.jpg)
 
