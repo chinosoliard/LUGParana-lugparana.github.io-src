@@ -28,10 +28,12 @@ DEFAULT_PAGINATION = 5
 DISPLAY_HOME_ON_MENU = True
 DISPLAY_PAGES_ON_MENU = True
 
-#THEME='theme'
 THEME="lugparana-pelican-theme"
 # Uncomment following line if you want document-relative URLs when developing        │blog/  pages/ 
-#RELATIVE_URLS = True 
+#RELATIVE_URLS = True i
+
+CATEGORY_ICONS = True
+CATEGORY_ICONS_PATH = "/images/static/"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
