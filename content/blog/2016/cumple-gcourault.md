@@ -1,7 +1,7 @@
 Title: Cumpleaños gcourault
 Date: 2016-08-06
 Category: Reuniones
-Tags: social, flisol
+Tags: social
 Lang: es
 Slug: cumple-gcourault-2016
 Summary: Nos juntamos en Santa Fé, en la Estación Belgrano, para festejar el cumpleaños de gcourault, y hablar de todo un poco. ![cumple-gcourault-slide.jpg](/images/article/2016/cumple-gcourault-slide.jpg) 

@@ -25,4 +25,4 @@ A continuación, el cronograma del evento:
 
 En cuanto a las instalaciones realizadas y medios de instalación entregados, podemos decir que fue exitoso: Se realizaron 10 instalaciones (todas de Debian) y se entregaron aproximadamente 60 medios de instalación.
 
-
+###<a href="/images/galleries/FLISoL2014" target="_blank">Galería de fotos</a>

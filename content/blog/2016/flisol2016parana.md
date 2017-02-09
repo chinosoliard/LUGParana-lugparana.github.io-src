@@ -50,6 +50,6 @@ En números:
     * varias instalaciones de programas  
   * Cerca de 20 DVDs y CDs entregados con Debian, Mint y Fedora.  
 
-
+###<a href="/images/galleries/FLISoL2016" target="_blank">Galería de fotos</a>
 
 

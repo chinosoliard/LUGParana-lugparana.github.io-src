@@ -30,4 +30,4 @@ El resultado del evento fue positivo, la gente hizo preguntas y participaron, au
 
 No se realizaron muchas instalaciones, la mayoría de los asistentes no llevaron computadora, pero si se repartieron medios de instalación de Debian, Fedora y Ubuntu.
 
-
+###<a href="/images/galleries/FLISoL2013" target="_blank">Galería de fotos</a>

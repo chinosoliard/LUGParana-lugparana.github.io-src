@@ -1,7 +1,7 @@
 Title: Migramos a Pelican
 Date: 2016-09-09
 Category: Blog
-Tags: flisol, pelican
+Tags: pelican
 Lang: es
 Slug: migramos-a-pelican
 Summary: Después de varios meses de idas y vueltas, migramos a [Pelican](http://www.getpelican.com) el sitio de LUG Paraná. 

@@ -41,3 +41,5 @@ El cronograma fue el siguiente:
 
 Lamentablemente, el tiempo nos jugó en contra, y las últimas charlas se dieron muy rápido.
 
+
+###<a href="/images/galleries/FLISoL2015" target="_blank">Galería de fotos</a>
