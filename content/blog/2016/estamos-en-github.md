@@ -9,4 +9,3 @@ Summary: Creamos una organización en [GitHub](http://www.github.com) buscando u
 A raíz de los problemas para compartir los materiales relacionados al LUG, se decidió crear un espacio en [github](http://www.github.com/LUGParana), para así disponer de las cosas cuando sea necesario.  
 Tambien, se considera migrar el sitio web a Pelican y hostearlo en github pages.
 
-
