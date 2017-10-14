@@ -4,9 +4,9 @@ Category: Eventos
 Tags: flisol
 Lang: es
 Slug: flisol-parana-2017
-Summary: FLISoL 2017 tuvo lugar el 23 de abril, la coordinación estuvo en manos de [Chino Soliard](http://www.chinosoliard.com), y, lamentablemente, los resultados no fueron los esperados. ![flisol201i7parana.jpg](/images/article/2017/flisol2017parana.jpg)
+Summary: FLISoL 2017 tuvo lugar el 23 de abril, la coordinación estuvo en manos de [Chino Soliard](http://www.chinosoliard.com), y, lamentablemente, los resultados no fueron los esperados. ![flisol201i7parana.jpg](/images/article/2017/flisol2017parana.jpg)  
 
-![flisol2017parana.jpg](/images/article/2017/flisol2017parana.jpg)
+![flisol2017parana.jpg](/images/article/2017/flisol2017parana.jpg)  
 
 Éste año, FLISoL contó con Declaración de Interés por parte del Honorable Consejo Deliberante de la Municipalidad de Paraná [- página 1 -]("/images/article/2017/flisol2017-declaracion-interes-1.jpg) - [- página 2 -]("/images/article/2017/flisol2017-declaracion-interes-2.jpg)  
 
