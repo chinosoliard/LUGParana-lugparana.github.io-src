@@ -6,7 +6,7 @@ Lang: es
 Slug: se-acerca-flisol-2018-parana
 Summary: **¡El 28 de abril tenemos festival!** Estamos a 9 días de una nueva edición de FLISoL en Paraná. ![banner-flisol2018-A4.jpg](/images/article/2018/banner-flisol2018-A4.jpg)
 
-# 14o Festival Latinoamericano de Instalación de Software Libre  
+# 14º Festival Latinoamericano de Instalación de Software Libre  
 # 28 de abril del 2018
 ![banner-flisol2018-A4.jpg](/images/article/2018/banner-flisol2018-A4.jpg)  
 
