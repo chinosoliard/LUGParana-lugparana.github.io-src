@@ -3,7 +3,7 @@ Date: 2017-04-12
 Category: Blog
 Tags: flisol
 Lang: es
-Slug: a-dies-dias-flisol-2017-parana
+Slug: a-diez-dias-flisol-2017-parana
 Summary: Estamos a 10 días de una nueva edición de FLISoL en Paraná. ![banner-flisol-A4.jpg](/images/article/2017/banner-flisol-A4.jpg)
 
 ![banner-flisol-A4.jpg](/images/article/2017/banner-flisol-A4.jpg)  
